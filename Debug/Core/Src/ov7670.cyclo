@@ -1,0 +1,4 @@
+../Core/Src/ov7670.c:5:6:OV7670_Init	3
+../Core/Src/ov7670.c:31:6:OV7670_WriteRegister	1
+../Core/Src/ov7670.c:35:9:OV7670_ReadRegister	1
+../Core/Src/ov7670.c:41:6:Convert_Frame_RGB565_to_RGB888	2
